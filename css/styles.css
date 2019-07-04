@@ -1,0 +1,16 @@
+body {
+  background-color: gold;
+  text-align: center;
+}
+h2.introduction {
+  font-family: sans-serif;
+}
+p.introduction {
+  font-family: serif;
+  font-style: italic;
+
+}
+img.introduction {
+  flex: auto;
+
+}
